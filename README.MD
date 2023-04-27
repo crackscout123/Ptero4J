@@ -1,8 +1,13 @@
-# Ptero4J
+
+# Ptero4J-Reborn
+
+This project is forked form [stanjg/Ptero4J](https://github.com/stanjg/Ptero4J), unfortunately it seems that stanjg is no longer maintaining the project. 
+So I decided to keep it up to date & running, I will also expand and add features as possible
 
 A java library to interact with the Admin API of [Pterodactyl Panel](https://github.com/pterodactyl/panel).
 
 ##### _This project is currently not finished! Feel free to use it, but there's no guarantee it will 100% work._
+###### Discord: lostares_#6834
 
 ### Content:
 - [General Concepts](#concepts)
