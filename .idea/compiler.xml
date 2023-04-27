@@ -9,8 +9,5 @@
         <module name="Ptero4J" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Ptero4J" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
